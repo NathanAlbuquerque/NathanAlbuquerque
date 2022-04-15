@@ -1,5 +1,3 @@
-✨ (11)94900-6450 ✨
-
 - 👋 Saudações, me chamo Nathan
 - 👀 Sou apaixonado por tecnologia
 - 🌱 I’m currently learning PHP/Laravel
@@ -8,3 +6,5 @@
  
 Minha experiencia na área é curta, contudo a força de vontade não deixa a desejar.
 Adoraria falar sobre os pontos fortes que posso trazer para a equipe/comunidade nessa função.
+
+✨ (11)94900-6450 ✨
