@@ -1,6 +1,6 @@
 - 👋 Saudações, me chamo Nathan
 - 👀 Sou apaixonado por tecnologia
-- 🌱 I’m currently learning PHP/Laravel
+- 🌱 I’m currently learning PHP/Laravel and VueJS
 - 📍 Como chegar a mim? Tenho conta nas principais rede. Um pequeno stalk e ja me acha 
 - 🗺️ Me mudei para Imperatriz a pouco e amaria ajudar/apoiar a comunidade local
  
