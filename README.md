@@ -7,4 +7,5 @@
 Minha experiencia na área é curta, contudo a força de vontade não deixa a desejar.
 Adoraria falar sobre os pontos fortes que posso trazer para a equipe/comunidade nessa função.
 
-✨ (11)94900-6450 ✨
+✨ (11) 94900-6450 ✨
+✨ (99) 8523-3799 ✨
