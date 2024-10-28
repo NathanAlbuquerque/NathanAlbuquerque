@@ -15,7 +15,7 @@
 </a>
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanalbuquerque&size_weight=0.5&count_weight=0.5&theme=radical" target="_blank" rel="noopener noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanalbuquerque&size_weight=0.5&count_weight=0.5&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanalbuquerque&size_weight=0.5&count_weight=0.5&theme=radical&langs_count=22&hide_progress=true">
 </a>
 
 <!--
