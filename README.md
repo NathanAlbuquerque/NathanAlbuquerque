@@ -1,12 +1,23 @@
-👋 Olá! Sou o Nathan, desenvolvedor com experiência em projetos web, apaixonado por tecnologia e inovação. Tenho atuado com PHP, Laravel, VueJS, React e Tailwind, criando aplicações dinâmicas e de alta performance.
+👋 Olá! Sou o Nathan, Desenvolvedor Web apaixonado por tecnologia e inovação. Minha experiência foca na criação de aplicações web dinâmicas, escaláveis e de alta performance.
 
-🌐 **Conecte-se comigo** no [LinkedIn](https://www.linkedin.com/in/nathan-albuquerque/) ou pelo Discord (NathanAlbuquerque) para discutir parcerias, projetos e oportunidades de colaboração!
+🛠️ **Principais Tecnologias (Stacks)**
+- Backend: PHP, Laravel
+- Frontend: React, Next.js, VueJS
+- UI/Estilização: Tailwind CSS, shadcn/ui
+- Ferramentas/DevOps: Docker
 
-📍 **Local**: Recém-chegado a Imperatriz, estou entusiasmado para contribuir com a comunidade de tecnologia local, trazendo ideias e suporte.
+📍 **Localização**
+Atualmente atuando na região Nordeste do país, estou focado em contribuir com o ecossistema de tecnologia regional, trazendo novas ideias, soluções e suporte.
 
-📈 **O que ofereço**: Comprometimento e vontade de agregar valor ao time, com uma abordagem prática e colaborativa para soluções inovadoras.
+📈 **O que ofereço**
+Comprometimento e proatividade para agregar valor ao time, sempre com uma abordagem prática e colaborativa para encontrar soluções inovadoras.
 
-📞 **Contato**: (99) 9 8523-3799  
+🌐 **Conecte-se Comigo**
+Estou aberto a discutir parcerias, projetos e oportunidades de colaboração!
+- Email: [nathan.nra@outlook.com]
+- LinkedIn: [linkedin.com/in/nathan-albuquerque]
+- Discord: NathanAlbuquerque
+- Telefone: (99) 9 8523-3799
 
 ---
 
