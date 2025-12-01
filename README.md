@@ -51,7 +51,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nathanalbuquerque&theme=radical&hide_border=true&date_format=M%20j%20Y&mode=weekly" alt="GitHub Streak" />
   </p>
   
-  <img src="https://github.com/nathanalbuquerque/nathanalbuquerque/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+  <img src="https://github.com/nathanalbuquerque/nathanalbuquerque/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 
 </div>
 
